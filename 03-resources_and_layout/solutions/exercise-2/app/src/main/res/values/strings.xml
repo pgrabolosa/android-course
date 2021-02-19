@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExerciceCours3</string>
+    <string name="invalid_input">Invalid Input</string>
+
+    <string name="temp_celsius_short">ºC</string>
+    <string name="temp_fahreneiht_short">ºF</string>
+    <string name="temp_convert_action">Convert ºC to ºF</string>
+    <string name="temp_fahreneiht_format">%.2f ºF</string>
+
+    <string name="counter_count_action">Increment</string>
+    <string name="counter_count_none">Number of Clicks</string>
+    <string name="counter_count_format">Number of Clicks: %d</string>
+</resources>

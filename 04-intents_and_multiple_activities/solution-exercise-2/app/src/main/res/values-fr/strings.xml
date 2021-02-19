@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="invalid_input">Saisie Invalide</string>
+
+    <string name="temp_celsius_short">ºC</string>
+    <string name="temp_fahreneiht_short">ºF</string>
+    <string name="temp_convert_action">Convertir</string>
+    <string name="temp_fahreneiht_format">%.2f ºF</string>
+
+    <string name="counter_count_action">Incrémenter</string>
+    <string name="counter_count_none">Nombre de clics</string>
+    <string name="counter_count_format">Nombre de Clics: %d</string>
+</resources>
